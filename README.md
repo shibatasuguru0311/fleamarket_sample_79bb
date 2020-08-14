@@ -1,6 +1,5 @@
 # README
 
-
 # **実装機能紹介**
 ---
 
@@ -16,6 +15,9 @@
 
 ### 商品出品機能
 
+<img width="1215" alt="edb90da659452c3349f3b9dbd33c15bf" src="https://user-images.githubusercontent.com/67133171/90228629-84cd8480-de51-11ea-940c-9323c2c536c3.png">
+<img width="1225" alt="3e033b29563e96bfbde50363bc036f26" src="https://user-images.githubusercontent.com/67133171/90228631-86974800-de51-11ea-87ea-c677ec0c8dbd.png">
+
 
 ・複数の画像を同時に投稿することができる  
 ・別のテーブル同士を紐付けてデータに保存することができる  
@@ -24,6 +26,8 @@
 
 
 ### 出品商品の編集、削除機能
+
+<img width="1223" alt="c5dba2ee65b46654bbd1976496a556e2" src="https://user-images.githubusercontent.com/67133171/90228639-88610b80-de51-11ea-9a5d-65d7b0b3f1b9.png">
 
 ・商品情報を編集や削除することができる  
 ・単体テストやエラーハンドリングの記述  
