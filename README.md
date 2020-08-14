@@ -79,7 +79,7 @@
 ## ER図
 ---
 ![88249235-cf3e6400-ccde-11ea-9152-b8ff57c16a29](https://user-images.githubusercontent.com/67133171/90210446-f218ef80-de28-11ea-8666-b016d7461b34.png)
-<img width="1303" alt="e54ad7e697d1eddf6eec859fc990740d" src="https://user-images.githubusercontent.com/67133171/90210460-f9d89400-de28-11ea-89b0-3b4d1d8299b8.png">
+
 
 
 
