@@ -30,7 +30,7 @@
 ・HTML、SCSSを使用したマークアップ  
 
 ### 商品一覧機能
-
+<img width="1303" alt="e54ad7e697d1eddf6eec859fc990740d" src="https://user-images.githubusercontent.com/67133171/90210709-aca8f200-de29-11ea-84e2-c06859a8b3b4.png">
 
 ・新着順にトップページ、詳細ページに表示される  
 ・売り切れた商品はSOLDOUTの表示となる  
