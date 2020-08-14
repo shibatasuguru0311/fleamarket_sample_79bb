@@ -67,14 +67,13 @@
     * URL：
         * http://54.95.64.121/
     * ID:
-        * 2222
+        * admin
     * Pass:
-        * ——
+        * 2222
         
        
 ## ER図
 ---
-https://user-images.githubusercontent.com/67133171/90206371-6ef29c00-de1e-11ea-918b-3c501972505d.png
 
 
 
