@@ -30,7 +30,6 @@
 ・HTML、SCSSを使用したマークアップ  
 
 ### 商品一覧機能
-![1811fc0945a943a937ff64c312dab95f](https://user-images.githubusercontent.com/67133171/90210495-0e1c9100-de29-11ea-9949-057a937f2874.jpg)
 
 
 ・新着順にトップページ、詳細ページに表示される  
@@ -39,8 +38,9 @@
 
 ### マークアップ
 ・マイページ、カテゴリーページを除く全てのページのマークアップを実施  
-![224959705d2c4096d48e933d0916e0a1](https://user-images.githubusercontent.com/67133171/90210472-02c96580-de29-11ea-8667-d05c1fc35b08.jpg)
 ![1811fc0945a943a937ff64c312dab95f](https://user-images.githubusercontent.com/67133171/90210495-0e1c9100-de29-11ea-9949-057a937f2874.jpg)
+![224959705d2c4096d48e933d0916e0a1](https://user-images.githubusercontent.com/67133171/90210472-02c96580-de29-11ea-8667-d05c1fc35b08.jpg)
+
 
 
 ## 開発状況
