@@ -15,26 +15,26 @@
 ### 商品出品機能
 
 
-・複数の画像を同時に投稿することができる
-・別のテーブル同士を紐付けてデータに保存することができる
-・ j Query、HTML、SCSSを使用してのマークアップ
-・バリデーション、テストの記述
+・複数の画像を同時に投稿することができる  
+・別のテーブル同士を紐付けてデータに保存することができる  
+・ j Query、HTML、SCSSを使用してのマークアップ  
+・バリデーション、テストの記述  
 
 
 ### 出品商品の編集、削除機能
 
-・商品情報を編集や削除することができる
-・単体テストやエラーハンドリングの記述
-・HTML、SCSSを使用したマークアップ
+・商品情報を編集や削除することができる  
+・単体テストやエラーハンドリングの記述  
+・HTML、SCSSを使用したマークアップ  
 
 ### 商品一覧機能
 
-・新着順にトップページ、詳細ページに表示される
-・売り切れた商品はSOLDOUTの表示となる
+・新着順にトップページ、詳細ページに表示される  
+・売り切れた商品はSOLDOUTの表示となる  
 
 
 ### マークアップ
-・マイページ、カテゴリーページを除く全てのページのマークアップを実施
+・マイページ、カテゴリーページを除く全てのページのマークアップを実施  
 
 
 ## 開発状況
@@ -72,28 +72,7 @@
 
 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 
 # 最終課題 DB設計
 
